@@ -1,0 +1,25 @@
+{
+  "features_num": [
+    "smart_1_raw",
+    "smart_5_raw",
+    "smart_9_raw",
+    "smart_12_raw",
+    "smart_193_raw",
+    "smart_197_raw",
+    "smart_198_raw",
+    "delta_1",
+    "delta_5",
+    "delta_12",
+    "delta_197",
+    "delta7_5",
+    "delta7_197",
+    "capacidad_tb",
+    "disco_nuevo"
+  ],
+  "features_cat": [
+    "fabricante",
+    "datacenter"
+  ],
+  "umbral_vigilar": 0.2,
+  "umbral_sustituir": 0.55
+}

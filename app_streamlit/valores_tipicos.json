@@ -1,0 +1,34 @@
+{
+  "medianas": {
+    "smart_1_raw": 0.0,
+    "smart_5_raw": 0.0,
+    "smart_9_raw": 30853.5,
+    "smart_12_raw": 11.0,
+    "smart_193_raw": 877.5,
+    "smart_197_raw": 0.0,
+    "smart_198_raw": 0.0,
+    "delta_1": 0.0,
+    "delta_5": 0.0,
+    "delta_12": 0.0,
+    "delta_197": 0.0,
+    "delta7_5": 0.0,
+    "delta7_197": 0.0,
+    "capacidad_tb": 16.000900661248,
+    "disco_nuevo": 0.0
+  },
+  "fabricantes": [
+    "HGST",
+    "Otros",
+    "Seagate",
+    "TOSHIBA",
+    "WDC"
+  ],
+  "datacenters": [
+    "ams5",
+    "iad1",
+    "phx1",
+    "sac0",
+    "sac2",
+    "yyz1"
+  ]
+}
