@@ -103,7 +103,7 @@ uptime-guard/
 │   ├── negocio.pptx     presentación de negocio
 │   ├── ds.pptx          presentación técnica
 │   └── memoria.md
-├── models/              final_model.pkl y config_modelo.json (variables y umbrales)
+├── models/              final_model.pkl (Random Forest), trained_model_1/2.pkl, config_modelo.json
 ├── notebooks/           01_Fuentes, 02_LimpiezaEDA, 03_Entrenamiento_Evaluacion
 ├── src/                 data_processing.py, training.py, evaluation.py
 ├── requirements.txt
