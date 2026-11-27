@@ -14,7 +14,7 @@ Modelo de Machine Learning que estima, para cada disco duro de un centro de dato
 
 \* Avisar si el disco tiene algún sector dañado (SMART 5, 197 o 198 mayor que 0), medido en train.
 
-Con un coste de 5.000 € por fallo sorpresa, el modelo ahorra unos **1.800 € al mes por cada 1.000 discos**. Compensa a partir de unos 1.300 € por fallo.
+Con un coste de 5.000 € por fallo sorpresa, el modelo ahorra unos **1.800 € al mes por cada 1.000 discos**: en una flota como la de Backblaze (340.000 discos), unos **7,4 M€ al año**. Compensa a partir de unos 1.300 € por fallo.
 
 ## Objetivo
 

@@ -155,7 +155,7 @@ Con costes supuestos (5.000 € por fallo sorpresa, 300 € por cambio planifica
 | 10.000 € | ✅ 17,5 M€ |
 | 20.000 € | ✅ 37,6 M€ |
 
-El ahorro no está en el hardware (un disco nuevo cuesta unos 300 €), sino en evitar la avería por sorpresa: recuperar datos, horas de técnicos y servicio degradado. Un solo disco rara vez para el servicio, porque hay redundancia, pero si falla otro mientras se reconstruye el primero puede haber pérdida de datos o una caída. Según el Uptime Institute, el 57 % de las caídas importantes cuesta más de 100.000 $. Anticipar los fallos reduce ese riesgo.
+El ahorro no está en el hardware (un disco nuevo cuesta unos 300 €), sino en evitar la avería por sorpresa: recuperar datos, horas de técnicos y servicio degradado. Un solo disco rara vez para el servicio, porque hay redundancia, pero si falla otro mientras se reconstruye el primero puede haber pérdida de datos o una caída. Según el Uptime Institute, el 57 % de los operadores dice que su última caída importante costó más de 100.000 $. Anticipar los fallos reduce ese riesgo.
 
 Compensa a partir de unos 1.300 € por fallo, y cuanto más caro es un fallo, más rentable resulta. Como el coste real cambia de una empresa a otra, los umbrales están en `models/config_modelo.json` y se pueden ajustar sin reentrenar.
 
